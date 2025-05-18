@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+#site {
+    margin: 0 auto;
+    max-width: 40vw;
+    box-sizing: border-box;
+}
+
+a {
+    margin: 5px;
+    display: inline-block;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    max-width: 100%;
+}
